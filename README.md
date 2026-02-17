@@ -1,4 +1,6 @@
 🩺 Skin Disease Detection Using Deep Learning & Computer Vision
+
+
 📌 Project Overview
 
 This project presents an AI-powered system for detecting skin diseases using Deep Learning and Computer Vision techniques. The model analyzes skin images and classifies them into different disease categories such as acne, eczema, psoriasis, or melanoma. The goal is to support early diagnosis and improve access to preliminary medical screening.
